@@ -21,9 +21,11 @@ html, body {
     flex: 0 0 auto; 
     width: 100%;
     background-color: lightgray;
+    background: url("image/banner.png") center/100%
 }
 
 .header img {
+   
     width: 100%;
     height: auto;
     display: block;
